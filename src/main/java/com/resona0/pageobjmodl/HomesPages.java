@@ -45,4 +45,8 @@ public class HomesPages {
 	public void clickOnAssignmentMenu() {
 		keywords.driver.findElement(assignmentLink).click();
 	}
+
+	public String getTitle() {
+		return keywords.driver.getTitle();
+	}
 }
