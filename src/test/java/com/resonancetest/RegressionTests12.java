@@ -1,5 +1,5 @@
 
-// This program of general things we use (in regression)
+// This program of general things we use 
 
 package com.resonancetest;
 
